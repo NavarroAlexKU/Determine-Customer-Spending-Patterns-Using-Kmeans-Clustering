@@ -75,6 +75,10 @@ plt.tight_layout()
 plt.show()
 ```
 
+![optimal_clusters](https://github.com/NavarroAlexKU/Determine-Customer-Spending-Patterns-Using-Kmeans-Clustering/blob/main/Optimal%20Number%20of%20Clusters.png?raw=true)
+
+To determine the optimal number of clusters, we want to locate where the elbow occurs (biggest drop in wcss). Based on the graph, the optimal number of clusters is around 5.
+
 ## Training the Final Model and Visualizing Clusters
 - Instantiate the K-means model with the optimal number of clusters.
 - Fit the model and predict the clusters.
