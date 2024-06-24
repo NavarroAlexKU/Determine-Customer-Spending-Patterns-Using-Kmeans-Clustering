@@ -126,3 +126,20 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 ```
+
+![cluster_of_customers](https://github.com/NavarroAlexKU/Determine-Customer-Spending-Patterns-Using-Kmeans-Clustering/blob/main/cluster%20of%20customers.png?raw=true)
+
+# Cluster Interpretation:
+- High Income, Low Spending: Customers with higher annual incomes (blue cluster) tend to have lower spending scores. This suggests that despite having more disposable income, these customers are more conservative with their spending.
+
+- Low Income, High Spending: Customers with lower annual incomes (green and pink clusters) tend to have higher spending scores. These customers are spending a larger portion of their income, indicating a more aggressive spending behavior.
+
+- Moderate Income and Spending: There are clusters of customers (red and cyan clusters) that fall into a more moderate range of both income and spending. These groups might represent more balanced or average spenders.
+
+# Marketing Strategy
+
+- Targeting High-Income Customers: Develop campaigns that emphasize value and exclusivity to encourage higher spending. Since these customers have the capacity to spend more, targeted promotions, loyalty programs, or exclusive offers might incentivize them to increase their spending.
+
+- Retention and Rewards for High Spenders with Low Income: Ensure that customers with lower incomes but higher spending scores feel valued. Implementing loyalty programs or rewards that provide discounts or benefits could help retain these valuable customers.
+
+- Balanced Approach for Moderate Groups: Continue to offer balanced promotions that cater to the needs and preferences of the moderate income and spending groups.
